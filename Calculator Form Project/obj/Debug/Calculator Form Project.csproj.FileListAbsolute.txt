@@ -1,0 +1,20 @@
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator Form Project\Calculator Form Project\obj\Debug\Calculator Form Project.csprojAssemblyReference.cache
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator Form Project\Calculator Form Project\obj\Debug\Calculator_Form_Project.Form1.resources
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator Form Project\Calculator Form Project\obj\Debug\Calculator_Form_Project.Properties.Resources.resources
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator Form Project\Calculator Form Project\obj\Debug\Calculator Form Project.csproj.GenerateResource.cache
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator Form Project\Calculator Form Project\obj\Debug\Calculator Form Project.csproj.CoreCompileInputs.cache
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator Form Project\Calculator Form Project\bin\Debug\Calculator Form Project.exe.config
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator Form Project\Calculator Form Project\bin\Debug\Calculator Form Project.exe
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator Form Project\Calculator Form Project\bin\Debug\Calculator Form Project.pdb
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator Form Project\Calculator Form Project\obj\Debug\Calculator Form Project.exe
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator Form Project\Calculator Form Project\obj\Debug\Calculator Form Project.pdb
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator-Form-Project\Calculator Form Project\bin\Debug\Calculator Form Project.exe.config
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator-Form-Project\Calculator Form Project\bin\Debug\Calculator Form Project.exe
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator-Form-Project\Calculator Form Project\bin\Debug\Calculator Form Project.pdb
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator-Form-Project\Calculator Form Project\obj\Debug\Calculator Form Project.csprojAssemblyReference.cache
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator-Form-Project\Calculator Form Project\obj\Debug\Calculator_Form_Project.Form1.resources
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator-Form-Project\Calculator Form Project\obj\Debug\Calculator_Form_Project.Properties.Resources.resources
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator-Form-Project\Calculator Form Project\obj\Debug\Calculator Form Project.csproj.GenerateResource.cache
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator-Form-Project\Calculator Form Project\obj\Debug\Calculator Form Project.csproj.CoreCompileInputs.cache
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator-Form-Project\Calculator Form Project\obj\Debug\Calculator Form Project.exe
+D:\Users\MoreeZ\Desktop\Coding folder\C#\Calculator-Form-Project\Calculator Form Project\obj\Debug\Calculator Form Project.pdb
